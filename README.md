@@ -2,7 +2,7 @@
 
 A simple and clean login page built using HTML and CSS. Designed for practice and learning purposes.
 
-## 🖼️ Preview
+### 🖼️ Preview
 
 ![Login Page Screenshot](images/login-preview.png)
 
